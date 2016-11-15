@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Jason Berlin Thomas",
+      "title": "Abstractionist Works",
+      "bio": "Jason Berlin was born in Longview Washington. Berlin works predominantly in the medium of oil painting, but includes sculpture in his oeuvre. Berlin is currently in the Masters of Fine Arts in Visual Studies at Hallie Ford School of Graduate Studies at Pacific Northwest College of Art. He completed a BFA with distinction at Oregon College of Art and Craft in Portland Oregon in 2013. He has been in numerous art shows in the Pacific Northwest. Other art show locations include New York, France, and Vancouver BC. Berlin recently won the OakKnoll wine label competition for the Portland Rose festival 2013. Berlin splits his time between Longview Washington and Portland Oregon.",
+      "image": "images/artists/.jpg"
+    },
+    {
+      "id": 2,
+      "project_name": "Kara Nelson",
+      "title": "Bird Watching",
+      "bio": "Kara Nelson is an artist living and working in the Oakland, CA. She uses her own trash to collage images of landscapes and make small-scale, abstract, and sometimes functional sculptures. Her work has been shown in group and solo exhibitions in galleries, and exhibitions in private homes.
+
+    Originally from the North West, Kara references elements of those landscapes in the images she creates. These signifiers are increasingly mixed with reference to the California landscapes she interacts with daily. For Kara, living sometimes means needing to use objects that can have harmful environmental effects. She creates her work as atonement for using. It serves as a reminder to tread lightly in the world in order to minimize her negative effect on the environment.",
+      "image": "images/artists/paul-shellington.jpg"
+    },
+    {
+      "id": 3,
+      "project_name":  "Andrew Lorish",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    },
+    {
+      "id": 4,
+      "project_name":  "Veronica Reeves",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    },
+    {
+      "id": 5,
+      "project_name":  "Kelly McGovern",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    },
+    {
+      "id": 6,
+      "project_name":  "Bertrand Morin",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    },
+    {
+      "id": 7,
+      "project_name":  "Alanna Risse",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    },
+    {
+      "id": 8,
+      "project_name":  "Ehren Reed",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    },
+    {
+      "id": 9,
+      "project_name":  "Brandi Kruse",
+      "title": "General Works",
+      "bio": "The SAMOCA board of directors are pleased to announce the acquisition of a wide range of works, including new artist Jacob Mars.",
+      "image": "images/artists/jacob-mars.jpg"
+    }
+  ]
+}

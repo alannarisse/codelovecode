@@ -1,0 +1,28 @@
+{
+  "exhibits": [
+    {
+      "id": 1,
+      "artist_name": "Veronice Reeves",
+      "title": "Bright Spots",
+      "exhibit_info": "An asteroid crash lands on a planet conducive to life. It is carrying proteins, seeds, spores, and data from another world that faced a cataclysmic event. Through layers of masking, spray paint, spills, and hand painting techniques, I visualize places of post-dystopian sanctuary. Pulling from aesthetics of digital games, visionary art, images of outer space, and earth processes, Bright Spots hints at fragments of new life slowly unfolding against the odds. As long as there is RNA, and DNA, it’ll be okay.",
+      "exhibit_date": "September 2016, Flickerbox Inc.",
+      "image": "images/artists/reeves-240.jpg"
+    },
+    {
+      "id": 2,
+      "artist_name": "Kara Nelson",
+      "title": "Uncaching Landscapes",
+      "exhibit_info": "Kara Nelson is an artist living and working in the Oakland, CA. She uses her own trash to collage images of landscapes and make small-scale, abstract, and sometimes functional sculptures. Her work has been shown in group and solo exhibitions in galleries, and exhibitions in private homes. Originally from the North West, Kara references elements of those landscapes in the images she creates. These signifiers are increasingly mixed with reference to the California landscapes she interacts with daily. For Kara, living sometimes means needing to use objects that can have harmful environmental effects. She creates her work as atonement for using. It serves as a reminder to tread lightly in the world in order to minimize her negative effect on the environment.",
+      "exhibit_date": "October 2016, Flickerbox Inc.",
+      "image": "images/artists/kara-240.jpg"
+    },
+    {
+      "id": 3,
+      "artist_name":  "Brandi Kruse",
+      "title": "Past and Potential",
+      "exhibit_info": "Brandi Kruse grew up in Ypsilanti, Michigan and received her BS in Education at Central Michigan University where she studied literature and photography. She moved to Portland, OR in 2008 and, after teaching high school language arts and studio arts for eight years, she recently graduated with an MFA in Print Media at Pacific Northwest College of Art. In no particular order, she thinks of herself as a teacher, photographer, printmaker, and poet. Her work is dependent on time, light, and reflection and she often questions what is gained and what is lost in this reliance.",
+      "exhibit_date": "Noember 2016, Flickerbox Inc.",
+      "image": "images/artists/kruse-240.jpg"
+    }
+  ]
+}
